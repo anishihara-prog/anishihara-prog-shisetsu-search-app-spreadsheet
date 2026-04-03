@@ -1,1 +1,1 @@
-# anishihara-prog-shisetsu-search-app-spreadsheet
+# spreadsheets-hisetsu-search-app
